@@ -1,0 +1,1 @@
+import{r as n}from"./index-76fb7be0.js";const o=typeof window<"u"?n.useLayoutEffect:n.useEffect,f=o;function t(e){return e&&e.ownerDocument||document}function r(e){return t(e).defaultView||window}export{t as a,r as o,f as u};

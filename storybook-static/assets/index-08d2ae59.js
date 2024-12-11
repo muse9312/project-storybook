@@ -1,0 +1,1 @@
+import{r as s}from"./index-76fb7be0.js";import{u as o}from"./styled-80c0ceef.js";const t=e=>{const r=s.useRef({});return s.useEffect(()=>{r.current=e}),r.current},n=t;function p(e){return o}export{p as c,n as u};
